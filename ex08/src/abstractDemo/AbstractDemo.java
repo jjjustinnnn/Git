@@ -1,5 +1,5 @@
 package abstractDemo;
-
+//123456789test
 abstract class CEmployee {          //抽象類別
     protected String name;     	    //員工姓名
     protected int base = 29000; 	//底薪
